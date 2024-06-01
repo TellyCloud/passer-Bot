@@ -7,8 +7,6 @@
     "bypass bot", 
     "telegram bot" 
   ],
-  "repository": "https://github.com/bipinkrish/Link-Bypasser-Bot",
-  "logo": "https://ibb.co/kMVxrCj",
   "env": {
     "HASH": {
       "description": "Your API HASH from my.telegram.org",
@@ -75,7 +73,7 @@
   "formation": {
     "web": {
       "quantity": 1,
-      "size": "standard-1x"
+      "size": "standard-1"
     }
   }
 }
